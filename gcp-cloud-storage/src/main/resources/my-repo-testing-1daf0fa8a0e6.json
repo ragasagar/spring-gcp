@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-repo-testing",
+  "private_key_id": "1daf0fa8a0e61ad6d5efdb25e2f2bade801f692b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHdSStubCo+s/w\nkyw9/5oGT5UP7bgMP0O9ygke6N4d92M5rUMLUpiFdEq1cpVzRfVbsiktPEvMHM2R\n0gTuwBSkxn6UzqAu8l8SXzzh4bNI6Lt9uILIB8qbEK/b5B4hAJcMBDPBn7KNpIpi\nEXIdi56Kyxah7zNRQJBRujLarGI/FWuQngylsV/RqYMTAk9mqPt466TH9/JrNamj\nU/QQ6i0ebROg8CzfcQFaSHNtst7qF/ikkhlgFXR6LQUYfQw3sHWIz88Z4oJbXpPc\nNutvT2ZNLpAUT+edV5ymeOFMqroVVvbBUbpykRwOo3AsrPj/RTVC3/n0HRmylKD/\n2WcQsrufAgMBAAECggEAC/JG72xuTNWAHxT2WU/ix7SV8h2XLVo15ZThK/h41hgL\nQBkFD+IM3/1oCVGJUWpKXyLrvXMqYdmdytMAWAgQLhH0SSRnfeuNaM1kf6D9lIUM\n0DBjdBvajwp8uTGceylZleIqJjnS8qt9KfeI7rhK/cQnoSy+PARSc8EW96r+7W+k\nN+sjUVAOyJZoJxWGh9fANl7neB/t7VF70Zl1Wcs8uOJFuUsgVk/9IKDu2w7O/4FT\nW2hQhL23DiTWKnC/ZeEhLGIzDrKLMeBt2eB7YifHhCbjE8++Q1qe3QSnE88ftvNq\nUDJ0iICGhxl8+FrtFkaghVkzg+4BchPGbeqwE2kGjQKBgQDqBpWxMiqyMCpIl/jw\nMCaepBGlrwXfszBUqM1lxKKezC04dOL0ooMf8sRtiVPTjToV5M2NM8xX/FEwo8Lf\nloWH5Ws4sLXiKjo7A3izPf3JMTD7PCP90jNKL8tTwifRMHwwj1dQChQ2HlD09EpH\nC8uJ9KL9aj+X7ZYTjweQBqs5HQKBgQDaL5+0xuipdDXUXOny7wMSursN8hhpT+ZR\ngpdfThY7BgeSkt1NU7OeYqB/iYS67bbZRvxpWyR6hootKQ99bSKQWy3J65CB7fPw\nw9NTnUbIaXnM1YkPJooUnxRUhFki131OYe2wjYchAvQ0SVD8VqoRTt6Q+PnHzuSg\nwJSCcEcm6wKBgDgYXfc8XCmcC/acnuoL0KYEE8rQGitVy0bvs1QqfwRrUoeO1Pvo\nnF+jFFxhJ3u1BXBMCM1I1jlc3KU5C7QGY3mAj2PmT6Knlo+gtGTafiOkq+X8s2/a\n27pznFw2VM76vTnyke44jEGwoJ0mlUtUU3R89DikKBwlsex8Q0bNomstAoGBANXL\neLkRd4YkQ2L2MKBFqENACm7d3SHEkzEnv+A5ifsIK39qvcM503XNuut9+zuYF2XM\n8yThlFsjXl5mL7F9sTK2xaVoWE+YtUIlAPybznIvOJSIYSchYohWYPt4PEex1C1s\nNBaed9zXIifh96Nr4HXZTKnN7iPmDY2fZ2ZxUqdFAoGBANyOkjVmh+6T9iJ9z76z\n2l8NSa5gWgLRovbeUcGLdLMORo+NHligg23yIHH2aSeyRgsklpwtPCdLgLVgHYjF\nutWTaUqYldXqomqHeW9Rlckn6Pdjdfuh5Pxt4pIW7rJwgoelR/vCBi9ZZ9pHrn/3\nHBkwnOV/CFpSXM2jhKHd3kFU\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-strorage-account@my-repo-testing.iam.gserviceaccount.com",
+  "client_id": "111975682445788773163",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-strorage-account%40my-repo-testing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
